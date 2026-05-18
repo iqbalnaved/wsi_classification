@@ -128,7 +128,7 @@ wsi_classfication/
 ```bash
 git clone https://github.com/iqbalnaved/wsi_classfication.git
 cd wsi_classfication
-pip install torch torchvision openslide-python scikit-learn numpy pandas matplotlib pillow
+pip install -r requirements.txt
 ```
 
 ---
